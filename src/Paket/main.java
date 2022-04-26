@@ -5,5 +5,8 @@ public class main {
 sinif1 s1=new sinif1(2,3,4);
 sinif2.method2("Ben gunde 2 yada 3 kere yemek yerim. Ama Huseyin abi 5 kere yer ");
 
+        System.out.println("mainde degisiklik");
+        System.out.println("yeni degisiklik");
+
     }
 }
